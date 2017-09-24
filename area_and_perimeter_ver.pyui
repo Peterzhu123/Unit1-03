@@ -1,0 +1,143 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 146}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "width_label",
+          "frame" : "{{202, 240}, {150, 32}}",
+          "uuid" : "C7F95DFE-3C01-4301-92C4-8A03AEDFA5E3",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "width",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 50}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "length_label",
+          "frame" : "{{202, 240}, {150, 32}}",
+          "uuid" : "2EDC0300-095B-4B94-950C-33A2744C3A1C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "length",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 216}, {150, 46}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{237, 240}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "2CE26D16-0068-4EAC-AAAD-276D6CA7EF9E",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 297}, {150, 37}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "area_answer_label",
+          "frame" : "{{202, 240}, {150, 32}}",
+          "uuid" : "F09544B6-9199-4F0B-BFA8-E744F3EF6B0A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{13, 373}, {150, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "perimeter_answer_label",
+          "frame" : "{{202, 240}, {150, 32}}",
+          "uuid" : "49E01729-8A41-4A8D-BD93-19CABBC5B32D",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{262, 45}, {236, 57}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "length_textbox",
+          "frame" : "{{177, 240}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "C9A6085B-B69F-4D0F-A019-7863367A50AF",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{262, 130}, {231, 64}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "width_textbox",
+          "frame" : "{{177, 240}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "2537EA3A-E834-426E-A84F-00BFD0D186EF",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {553, 512}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
